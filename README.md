@@ -38,4 +38,5 @@ When opening a file, a mode is specified to define how the file should be access
 
 File handling in C is a crucial concept for managing data beyond the runtime of a program. By understanding different file types, operations, and modes, developers can efficiently store, retrieve, and modify data as needed. Proper file handling techniques ensure efficient data management and enhance the functionality of applications.
 
-# OUTPUT
+# OUTPUT OF THE TASK
+![Image](https://github.com/user-attachments/assets/01da2246-a7ee-4c47-8292-991e120d3d17)
